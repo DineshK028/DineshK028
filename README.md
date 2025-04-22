@@ -6,7 +6,7 @@
 - 🧠 I’m into **Web Development | ML | Full-stack Engineering**
 - 💬 Ask me about **Python, Flask, JavaScript, and Open Source**
 - 📫 How to reach me **karajagidinesh@gmail.com**
-- 🧳 [View My Resume](https://drive.google.com/file/d/1xKCF9jqw-ywoIag_u95dTsBdxMvkWJy7/view)
+- 🧳 [View My Resume](avdresume - Copy.pdf)
 - 🌐 [My Portfolio](https://dineshk028.github.io/portfolio-d/)
 
 ---
