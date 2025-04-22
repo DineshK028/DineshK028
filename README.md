@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Karajagi</h1>
 <h3 align="center">🚀 Software Engineer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 - 🔭 I’m currently working on **Rice Plant Disease Detection using VGG16 + Flask**
 - 🌱 I’m learning **Django, ML tuning, and system design**
 - 🧠 I’m into **Web Development | ML | Full-stack Engineering**
